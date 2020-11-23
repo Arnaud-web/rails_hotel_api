@@ -16,6 +16,8 @@ read ,
 site_controller.rb :
 send Mail
 
+active_admin : AdminUser,Hotel ,User,UserComment
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
