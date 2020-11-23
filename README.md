@@ -1,4 +1,20 @@
 # README
+users_controller.rb 
+create
+login
+
+hotels_controller.rb
+create ref(user:hotel)
+read 
+update 
+delete 
+
+user_comment_controller.rb
+create ref(hotel , user)
+read 
+
+site_controller.rb
+send Mail
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
